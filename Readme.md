@@ -1,2 +1,3 @@
-# Accessing databases in Java with JDBC, Hibernate/ORM/JPA
+# Accessing databases in Java with JDBC and Hibernate ORM as JPA Provider
+
 
