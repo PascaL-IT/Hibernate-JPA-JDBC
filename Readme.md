@@ -25,3 +25,5 @@ Ref. https://www.udemy.com/course/java-et-les-bases-de-donnees-avec-jdbc-hiberna
 ![image](https://user-images.githubusercontent.com/36189996/136412968-64dfbaf3-6f6d-43ac-99be-f5cf3c12b241.png)
 
 Ref. Onion architecture : https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/
+
+![image](https://user-images.githubusercontent.com/36189996/137469976-69147cbe-79cb-4207-bf29-502467856bc4.png)
