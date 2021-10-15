@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context>
+    <Resource name="jdbc/tennisDS" 
+              auth="Container" 
+              type="javax.sql.DataSource"
+              initialSize="5" 
+              username="Pascal" 
+              password="..." 
+              driverClassName="com.mysql.cj.jdbc.Driver"
+              url="jdbc:mysql://localhost:3306/tennis?useSSL=false"/>
+              <!-- jdbc:mysql://localhost:3306/tennis?useSSL=false&amp;useLegacyDatetimeCode=false&amp;serverTimezone=Europe/Paris -->
+</Context>
