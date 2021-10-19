@@ -12,7 +12,7 @@ In addition to its own "native" API, Hibernate is also an implementation of the 
 
 In this course, JDBC, Hibernate and JPA technologies are introduced, along with architecture concepts to best fit on Java desktop application or a Web application. 
 
-Important notions seen in this course are : architecture layers (Consumer/Controller, Service, Persistence/DAO), business domain (Entities), repositories, Data Transfer Object (DTO), transactional management and lazy loading.
+Important notions seen in this course are : architecture layers (Consumer/Controller, Service, Persistence/DAO), Business domains (Entities), Repositories (persistence layer), Data Transfer Object (DTO), transactional management and lazy loading.
 
 Ref. https://www.udemy.com/course/java-et-les-bases-de-donnees-avec-jdbc-hibernate-et-jpa
 
