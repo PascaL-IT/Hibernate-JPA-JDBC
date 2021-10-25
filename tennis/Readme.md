@@ -1,8 +1,6 @@
-# Tennis (core library)
+# Tennis tournament (core software library)
 
-This **tennis** library offers three implementation of services (busines logic) to access a Tennis database,
-to perform various CRUD operations either with JDBC, Hibernate or JPA/Hibernate.
-The business entities, DAO models and DTO are provided.
+This **tennis** library offers three implementation of services (business logic) to manage a Tennis tournament by accessing a Tennis database (MySQL), to perform the various CRUD operations either with JDBC, Hibernate or JPA/Hibernate. The business entities, DAO models and DTO are provided.
 
 ![image](https://user-images.githubusercontent.com/36189996/137806310-5f5f2e4d-abe9-41c1-abfb-0922d9254d7a.png)
 
