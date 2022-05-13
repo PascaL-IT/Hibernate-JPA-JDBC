@@ -1,4 +1,4 @@
-## Accessing databases in Java with JDBC and Hibernate ORM
+## Accessing databases in Java with JPA and Hibernate ORM
 
 Training course to learn and to practice with JDBC, Hibernate ORM and the JPA API.
 
