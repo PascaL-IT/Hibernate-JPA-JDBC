@@ -1,6 +1,6 @@
 ## Accessing databases in Java with Hibernate ORM
 
-Training course to learn and to practice with JDBC, Hibernate ORM and the JPA API.
+Training course to learn and practice with JDBC, Hibernate ORM and the JPA API.
 
 Most of applications have to keep and manage data on the long term. The Java platform provides an API called JDBC (Java Database Connectivity) to do this by accessing database management systems like MySQL, Oracle, PostgreSQL.
 
